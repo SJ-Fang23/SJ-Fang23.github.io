@@ -21,7 +21,7 @@ repository               : "SJ-Fang23/SJ-Fang23.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my-profile-photo.jpg"
   name             : "Shijie Fang"
   pronouns         : # example: "she/her"  
   bio              : "Master student in Computer Science"
@@ -32,9 +32,9 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=_dbSnGoAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "frank-f-468765315" # Username
+  linkedin         : "shijie-fang-468765315" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
