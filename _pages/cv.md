@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-A copy of my CV can be found [*here*](www.fangshijie.website/files/Shijie_Fang_CV.pdf)
+A copy of my CV can be found [*here*](../files/Shijie_Fang_CV.pdf)
 {% include base_path %}
 
 Education
@@ -32,6 +32,7 @@ Education
   * Duties included: Tagging issues
   * Supervisor: Professor Git
    -->
+
 Skills
 ======
 * Programming
