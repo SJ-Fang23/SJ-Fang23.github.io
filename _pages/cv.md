@@ -7,15 +7,15 @@ redirect_from:
   - /resume
 ---
 
+A copy of my CV can be found [*here*](www.fangshijie.website/files/Shijie_Fang_CV.pdf)
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Human-Robot Interaction, Tufts Unniversity, 2024-*current*
+* B.S. in Robotic Engineering, Peking University, 2019-2023
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -31,15 +31,20 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+   -->
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python
+  * C/C++
+  * Matlab
+* Robotics toolchain
+  * ROS
+  * Simulators, including Mujoco/Robosuite, Pybullet, Gazebo
+* Learning toolchain
+  * Pytorch
+  * Tensorflow
+  * JAX
 
 Publications
 ======
@@ -47,11 +52,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -59,6 +64,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
