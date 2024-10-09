@@ -4,7 +4,7 @@ Involving Sustained Contact Object Manipulation"
 collection: publications
 category: manuscripts
 permalink: /publication/sept-2024-flex
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+# excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-09-15
 venue: '2025 IEEE International Conference on Robotics & Automation (ICRA 2025)'
 slidesurl: 'https://github.com/AABL-Lab/Human-Demonstration-Sidetracks'

@@ -4,7 +4,7 @@ Human Demonstrations"
 collection: publications
 category: manuscripts
 permalink: /publication/sept-2024-demo
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+# excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-09-15
 venue: '2025 IEEE International Conference on Robotics & Automation (ICRA 2025)'
 slidesurl: 'https://tufts-ai-robotics-group.github.io/FLEX/'
