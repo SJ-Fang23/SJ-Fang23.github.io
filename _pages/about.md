@@ -14,9 +14,9 @@ redirect_from:
 
 Current
 ======
-2023-current - ***Research assistant***, [Assistive Agent Behavior and Learning Lab](https://aabl.cs.tufts.edu/) (AABL Lab), Tufts University, headed by [Dr. Elaine Schaertl Short](https://eshort.github.io/)
+2023-current - ***Research Assistant***, [Assistive Agent Behavior and Learning Lab](https://aabl.cs.tufts.edu/) (AABL Lab), Tufts University, led by [Dr. Elaine Schaertl Short](https://eshort.github.io/)
 
-fall 2024 - ***Class assistant***, [Reinforcement Learning at Tufts University](https://www.cs.tufts.edu/comp/138/)
+fall 2024 - ***Class Assistant***, [Reinforcement Learning at Tufts University](https://www.cs.tufts.edu/comp/138/)
 
 Previous
 ======
@@ -25,8 +25,8 @@ Previous
 
 Research interest
 ======
-- **Robot learning,** particularly systems related with *reinforcement learning* or *imitation learning*. I am also interested in novelty handling, LLM+Robot, foundational models, and Visuomotor policies!
-- **Human-robot interaction,** especially *human demonstrations* and *human feedback* in the context of robot learning.
+- **Robot Learning,** particularly systems related with *reinforcement learning* or *imitation learning*. I am also interested in novelty handling, LLM+Robot, foundational models, and Visuomotor policies!
+- **Human-Robot Interaction,** especially *human demonstrations* and *human feedback* in the context of robot learning.
 
 News
 ======

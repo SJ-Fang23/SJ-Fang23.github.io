@@ -1,5 +1,5 @@
 ---
-title: "Class assistant"
+title: "Class Assistant"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2024-ca-rl
